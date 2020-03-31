@@ -1,6 +1,6 @@
 Jupyter notebook for deep learning example in LING 513 - this is based on an example from Matt Kelley's MoProc2019 Workshop Example. To open in binder, click on the binder badge next to the version you want.
 
-LING 513 version: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maetshju/moproc2019_deep_learning_workshop/workshop_final)
+LING 513 version: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bvtucker/513_deep-learning-example.git/master)
 
 # Instructions for running the notebook locally
 
