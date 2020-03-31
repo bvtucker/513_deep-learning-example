@@ -1,8 +1,4 @@
-Jupyter notebook for deep learning workshop at MoProc 2019. To open in binder, click on the binder badge next to the version you want. The "MoProc 2019" version will be the same as the notebook presented at the workshop, and the "latest" version will have any upates since the workshop.
-
-Latest version: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maetshju/moproc2019_deep_learning_workshop/master)
-
-The latest version includes a small edit about global convergence, and more information on using CuArrays for GPU acceleration.
+Jupyter notebook for deep learning example in LING 513. To open in binder, click on the binder badge next to the version you want.
 
 MoProc 2019 version: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maetshju/moproc2019_deep_learning_workshop/workshop_final)
 
